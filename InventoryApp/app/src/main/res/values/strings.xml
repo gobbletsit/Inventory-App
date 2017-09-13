@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="name_title">NAME :</string>
+
+    <string name="price_title">PRICE :</string>
+
+    <string name="in_stock_title">IN STOCK :</string>
+
+    <string name="supplier_title">SUPPLIER :</string>
+
+    <string name="euro"> €</string>
+
+    <string name="decrement">-</string>
+
+    <string name="increment">+</string>
+
+    <string name="orderButton">ORDER</string>
+
+    <string name="saleButton">SALE</string>
+
+    <string name="addNew">Add new product</string>
+
+    <string name="productDetails">Product details</string>
+
+    <string name="noProductsInStock">No products left in stock</string>
+
+    <string name="missingInfo">Missing information to add a new product</string>
+
+    <string name="addError">Error while adding a product</string>
+
+    <string name="addSuccess">New product successfully added</string>
+
+    <string name="updateError">Error while updating a product</string>
+
+    <string name="updateSuccess">Product successfully updated</string>
+
+    <string name="outOfStock">Out of stock</string>
+
+    <string name="editProduct">Edit product</string>
+
+    <string name="productName">Product name: </string>
+
+    <string name="inStock">In stock: </string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">The list is empty</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <string name="action_edit">Edit product</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Toast message in editor when current pet was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+
+</resources>
